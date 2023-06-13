@@ -1,0 +1,2 @@
+# ekart
+Ecommerce static webpages
